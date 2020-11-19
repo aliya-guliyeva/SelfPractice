@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello Git Self Practice");
 
         //I am very excited
+        //i do it myself
 
     }
 }
